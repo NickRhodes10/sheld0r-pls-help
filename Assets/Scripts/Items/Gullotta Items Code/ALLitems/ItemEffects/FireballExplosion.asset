@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 688916324e3346d48a9667de60393578, type: 3}
+  m_Name: FireballExplosion
+  m_EditorClassIdentifier: 
+  doesComeBack: 0
+  comeBackTime: 0
+  explodes: 1
+  explodeRadius: 30
+  explosionTime: 2
+  projectileObject: {fileID: 2037118276499928948, guid: 29ebda7414ac6144cae7825d382edb81, type: 3}
+  objectPool: {x: 8.202676, y: 50, z: -1.7372705}
+  speed: 35
+  direction: 0
+  hasTravelTime: 1
+  TravelTime: 0.25
+  ExplosionPrefab: {fileID: 1599504187946005103, guid: b31c70f94338d1c4b87657a5df25f7a5, type: 3}

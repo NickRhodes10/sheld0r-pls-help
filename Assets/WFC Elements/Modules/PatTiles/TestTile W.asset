@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6735d6a4b7fc3c349b71a8569af42932, type: 3}
+  m_Name: TestTile W
+  m_EditorClassIdentifier: 
+  tilebase: {fileID: 11400000, guid: 1335d18672dca644b841c15ba3fdac75, type: 2}
+  image: {fileID: 1674375989, guid: 2e9090b67ae67a14199532372935e233, type: 3}
+  north:
+  - {fileID: 11400000, guid: 2ccaae6bed4c33043abecb66f7ff30f3, type: 2}
+  - {fileID: 11400000, guid: 8efbaad9e7110c047a620f4e4979a2ed, type: 2}
+  - {fileID: 11400000}
+  east:
+  - {fileID: 11400000, guid: addba9b55e3a6294a9d0ea3750e77930, type: 2}
+  - {fileID: 11400000, guid: addba9b55e3a6294a9d0ea3750e77930, type: 2}
+  - {fileID: 11400000, guid: 5e093688ac6ee4448a3847d694abf0c7, type: 2}
+  - {fileID: 11400000, guid: 25ddf22b69b45c940870d1ac6280b671, type: 2}
+  - {fileID: 11400000, guid: b9b546e838ebe3c4888d9a48d6140395, type: 2}
+  south:
+  - {fileID: 11400000, guid: 1b19895e6105bb54bb7f94e278c2ffef, type: 2}
+  - {fileID: 11400000, guid: 6907e81d9f0927640b67e0859c7708c1, type: 2}
+  - {fileID: 11400000, guid: 1b19895e6105bb54bb7f94e278c2ffef, type: 2}
+  - {fileID: 11400000}
+  west:
+  - {fileID: 11400000, guid: addba9b55e3a6294a9d0ea3750e77930, type: 2}
+  - {fileID: 11400000, guid: addba9b55e3a6294a9d0ea3750e77930, type: 2}
+  - {fileID: 11400000, guid: c00afe691c0a68b4ab2f3b07df139780, type: 2}
+  - {fileID: 11400000, guid: 5b3497c98582a8147b275421e05f6baa, type: 2}
+  - {fileID: 11400000, guid: c6692fbd557e36940b5fa9e9b83ee2b1, type: 2}

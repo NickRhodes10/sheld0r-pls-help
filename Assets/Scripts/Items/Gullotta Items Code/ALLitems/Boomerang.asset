@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a836d04824a17ad48b05b1cac4344f80, type: 3}
+  m_Name: Boomerang
+  m_EditorClassIdentifier: 
+  _index: 2
+  itemName: Boomerang
+  itemLVL: 0
+  itemDescription: boombeagn
+  itemIcon: {fileID: 21300000, guid: a427f04471e051341b75c83723c91f62, type: 3}
+  itemCost: 100000
+  effectsOnUse:
+  - {fileID: 11400000, guid: 27b87d39bd43973499ccacb8e9257088, type: 2}

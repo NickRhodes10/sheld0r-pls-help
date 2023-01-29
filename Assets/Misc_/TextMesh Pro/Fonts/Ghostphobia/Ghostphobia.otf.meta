@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 8e83c327175d6164389f8a8c4c08d976
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Ghostphobia
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: c82228b47958b4442969369d8330c1fc, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

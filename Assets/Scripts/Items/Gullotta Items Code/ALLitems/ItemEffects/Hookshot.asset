@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 688916324e3346d48a9667de60393578, type: 3}
+  m_Name: Hookshot
+  m_EditorClassIdentifier: 
+  doesComeBack: 0
+  comeBackTime: 0
+  explodes: 0
+  explodeRadius: 0
+  explosionTime: 0
+  projectileObject: {fileID: 2785775420407046515, guid: 2d6b1837bce1591418b6df408e3d4bf0, type: 3}
+  objectPool: {x: 21.36135, y: 50.940086, z: 17.37988}
+  speed: 11
+  direction: 0
+  hasTravelTime: 1
+  TravelTime: 0.1
+  ExplosionPrefab: {fileID: 0}
